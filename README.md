@@ -1,7 +1,9 @@
 # LandingPage
 
-A new Flutter project.
+Design de uma landingpage responsiva
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/78eb4591-5931-4eab-8f2c-46606df2d1ad" width="400">
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## Link para visualização
+
+https://landing-page-64vdyk.flutterflow.app/
